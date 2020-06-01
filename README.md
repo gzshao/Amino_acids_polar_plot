@@ -6,4 +6,4 @@ The proposed solution is an intuitive way of visualizing the most significant tr
 
 The legend is drawn separately in another Python file. Inner wedge and outer wedge are used to represent Normal and Hemodialysis (HD) conditions. Textbox background are set to transparent (alpha = 0). 
 
-![amino acids](figure.png=200px)
+![](figure.png)
